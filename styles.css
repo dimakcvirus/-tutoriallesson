@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.gren{
+    color: green;
+}
+.work{
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 800px;
+}
